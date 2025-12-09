@@ -1,0 +1,15 @@
+scenario,coal,gas,bio,nuclear,tot,dac,sort_key
+Base,-86,-13,-900,0,-999,-12.6918,0
+DemandResponse,-69,-15,-633,0,-718,-3.2175000000000002,718
+PreRetiredThermalPower,-106,-72,-589,0,-767,-11.0304,775
+FreeTrade,-83,-2,-698,0,-783,-17.3835,798
+WithoutDLS,-88,-14,-819,0,-921,-12.6774,931
+WithoutHPExpansion,-85,-11,-957,0,-1052,-12.569400000000002,1062
+SlowerNuclearExpansion,-92,-19,-955,0,-1066,-12.9168,1076
+HigherDLS,-82,-12,-988,0,-1082,-12.4227,1091
+LowerVRESupply,-233,-15,-1056,0,-1304,-17.829900000000002,1319
+HigherElecDemand,-150,-123,-1098,0,-1371,-12.5874,1381
+LimitedTxExpansion,-87,-25,-1338,0,-1451,-13.4793,1461
+HigherHeatElectrification,-87,-12,-1368,0,-1466,-16.595100000000002,1480
+SlowerTechAdvancement,-96,-83,-1679,0,-1859,-22.4991,1878
+DemandingDLS,-238,-180,-3057,0,-3475,-30.735,3503

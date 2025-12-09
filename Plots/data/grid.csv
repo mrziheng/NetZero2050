@@ -1,0 +1,145 @@
+﻿region,grid,irena_code,iea_group,continent
+Algeria,Algeria,Africa,Africa,Africa
+CentralAfrica,CentralAfrica,Africa,Africa,Africa
+Congo,Congo,Africa,Africa,Africa
+Egypt,Egypt,Africa,Africa,Africa
+Ethiopia,Ethiopia,Africa,Africa,Africa
+KenyaUganda,KenyaUganda,Africa,Africa,Africa
+Libya,Libya,Africa,Africa,Africa
+Madagascar,Madagascar,Africa,Africa,Africa
+Morocco,Morocco,Africa,Africa,Africa
+Nigeria,North,Africa,Africa,Africa
+Nigeria,South,Africa,Africa,Africa
+Somalia,Somalia,Africa,Africa,Africa
+SouthAfrica,SouthAfrica,Africa,Africa,Africa
+SouthEastAfrica,SouthEastAfrica,Africa,Africa,Africa
+SouthWestAfrica,SouthWestAfrica,Africa,Africa,Africa
+SudanEriteria,SudanEriteria,Africa,Africa,Africa
+Tanzania,Tanzania,Africa,Africa,Africa
+Tunisia,Tunisia,Africa,Africa,Africa
+WestNorthAfrica,WestNorthAfrica,Africa,Africa,Africa
+WestSouthAfrica,WestSouthAfrica,Africa,Africa,Africa
+WestWestAfrica,WestWestAfrica,Africa,Africa,Africa
+Afghanistan,Afghanistan,Asia,West-Central Asia,Asia
+Bangladesh,Bangladesh,Asia,South Asia,Asia
+Cambodia,Cambodia,Asia,Southeast Asia,Asia
+Caucas,Caucas,Asia,West-Central Asia,Asia
+China,East,Asia,East Asia,Asia
+China,North,Asia,East Asia,Asia
+China,Northwest,Asia,East Asia,Asia
+China,South,Asia,East Asia,Asia
+China,Uygur,Asia,East Asia,Asia
+China,Tibet,Asia,East Asia,Asia
+China,Central,Asia,East Asia,Asia
+China,Northeast,Asia,East Asia,Asia
+India,CentralSouth,Asia,South Asia,Asia
+India,NorthEast,Asia,South Asia,Asia
+India,CentralEast,Asia,South Asia,Asia
+India,CentralWest,Asia,South Asia,Asia
+India,East,Asia,South Asia,Asia
+India,NorthWest,Asia,South Asia,Asia
+India,South,Asia,South Asia,Asia
+India,Up,Asia,South Asia,Asia
+India,West,Asia,South Asia,Asia
+India,North,Asia,South Asia,Asia
+Indonesia,Sumatra,Asia,Southeast Asia,Asia
+Indonesia,JavaTimorLeste,Asia,Southeast Asia,Asia
+Indonesia,KalimantanSulawesi,Asia,Southeast Asia,Asia
+Indonesia,PapuaNewGuinea,Asia,Southeast Asia,Asia
+Japan,East,Asia,East Asia,Asia
+Japan,West,Asia,East Asia,Asia
+Kazakhstan,Kazakhstan,Asia,West-Central Asia,Asia
+KyrgyzstanTajikistan,KyrgyzstanTajikistan,Asia,West-Central Asia,Asia
+Laos,Laos,Asia,Southeast Asia,Asia
+Malaysia,WestSingapore,Asia,Southeast Asia,Asia
+Malaysia,EastBrunei,Asia,Southeast Asia,Asia
+Mongolia,Mongolia,Asia,East Asia,Asia
+Myanmar,Myanmar,Asia,Southeast Asia,Asia
+NepalBhutan,NepalBhutan,Asia,South Asia,Asia
+NorthKorea,NorthKorea,Asia,East Asia,Asia
+Pakistan,North,Asia,South Asia,Asia
+Pakistan,South,Asia,South Asia,Asia
+Philippines,Philippines,Asia,Southeast Asia,Asia
+SouthKorea,SouthKorea,Asia,East Asia,Asia
+SriLanka,SriLanka,Asia,South Asia,Asia
+Taiwan,Taiwan,Asia,East Asia,Asia
+Thailand,Thailand,Asia,Southeast Asia,Asia
+Turkmenistan,Turkmenistan,Asia,West-Central Asia,Asia
+Uzbekistan,Uzbekistan,Asia,West-Central Asia,Asia
+Vietnam,Vietnam,Asia,Southeast Asia,Asia
+CentralAmerica,CentralAmerica,Central America,Central America,North America
+Russia,South,Eurasia,Central-East Europe,Europe
+Russia,Siberia,Eurasia,Central-East Europe,Europe
+Russia,Fareast,Eurasia,Central-East Europe,Europe
+Russia,Northwest,Eurasia,Central-East Europe,Europe
+Russia,Volga,Eurasia,Central-East Europe,Europe
+Russia,Central,Eurasia,Central-East Europe,Europe
+Russia,Ural,Eurasia,Central-East Europe,Europe
+AustriaHungary,AustriaHungary,Europe,Central-East Europe,Europe
+BalkanEast,BalkanEast,Europe,Central-East Europe,Europe
+BalkanWest,BalkanWest,Europe,South Europe,Europe
+Baltic,Baltic,Europe,Central-East Europe,Europe
+Belarus,Belarus,Europe,Central-East Europe,Europe
+Benelux,Benelux,Europe,West Europe,Europe
+BritishIsles,BritishIsles,Europe,West Europe,Europe
+Denmark,Denmark,Europe,North Europe,Europe
+Finland,Finland,Europe,North Europe,Europe
+France,France,Europe,West Europe,Europe
+Germany,Germany,Europe,West Europe,Europe
+Iberia,Iberia,Europe,South Europe,Europe
+Iceland,Iceland,Europe,North Europe,Europe
+Italy,Italy,Europe,South Europe,Europe
+Norway,Norway,Europe,North Europe,Europe
+Poland,Poland,Europe,Central-East Europe,Europe
+Slovakia,Slovakia,Europe,Central-East Europe,Europe
+Sweden,Sweden,Europe,North Europe,Europe
+Switzerland,Switzerland,Europe,West Europe,Europe
+UkraineMoldova,UkraineMoldova,Europe,Central-East Europe,Europe
+Gaza,Gaza,Middle East,Middle East,Asia
+Iran,Iran,Middle East,Middle East,Asia
+Iraq,Iraq,Middle East,Middle East,Asia
+Israel,Israel,Middle East,Middle East,Asia
+Kuwait,Kuwait,Middle East,Middle East,Asia
+Lebanon,Lebanon,Middle East,Middle East,Asia
+Oman,Oman,Middle East,Middle East,Asia
+SaudiArabia,SaudiArabia,Middle East,Middle East,Asia
+Syria,Syria,Middle East,Middle East,Asia
+Turkey,Turkey,Middle East,Middle East,Europe
+UnitedArabEmirates,UnitedArabEmirates,Middle East,Middle East,Asia
+Yemen,Yemen,Middle East,Middle East,Asia
+Canada,East,North America,North America,North America
+Canada,West,North America,North America,North America
+Mexico,Northwest,North America,North America,North America
+Mexico,North,North America,North America,North America
+Mexico,South,North America,North America,North America
+Mexico,Central,North America,North America,North America
+USA,Carolinas,North America,North America,North America
+USA,California,North America,North America,North America
+USA,NENY,North America,North America,North America
+USA,Texas,North America,North America,North America
+USA,Central,North America,North America,North America
+USA,MidAtlantics,North America,North America,North America
+USA,TVA,North America,North America,North America
+USA,Southwest,North America,North America,North America
+USA,Alaska,North America,North America,North America
+USA,Northwest,North America,North America,North America
+USA,Southern,North America,North America,North America
+USA,Gulf,North America,North America,North America
+USA,Midwest,North America,North America,North America
+Australia,East,Oceania,Oceania,Oceania
+Australia,West,Oceania,Oceania,Oceania
+NewZealand,NewZealand,Oceania,Oceania,Oceania
+Argentina,East,South America,South America,South America
+Argentina,West,South America,South America,South America
+Argentina,NorthEastUruguay,South America,South America,South America
+Brazil,North,South America,South America,South America
+Brazil,Northeast,South America,South America,South America
+Brazil,SanPaulo,South America,South America,South America
+Brazil,South,South America,South America,South America
+Brazil,Southeast,South America,South America,South America
+CentralSouthAmerica,CentralSouthAmerica,South America,South America,South America
+Chile,Chile,South America,South America,South America
+Colombia,Colombia,South America,South America,South America
+Ecuador,Ecuador,South America,South America,South America
+Peru,Peru,South America,South America,South America
+Venezuela,Venezuela,South America,South America,South America

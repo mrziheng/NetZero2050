@@ -1,0 +1,16 @@
+scenario,demand
+Base,58266.05
+HigherDLS,61449.97
+WithoutDLS,54662.88
+WithoutHPExpansion,58266.05
+SlowerNuclearExpansion,58266.05
+SlowerTechAdvancement,58266.05
+LowerVRESupply,58266.05
+LimitedTxExpansion,58266.05
+DemandingDLS,61449.97
+FreeTrade,58266.05
+HigherHeatElectrification,58266.05
+PreRetiredThermalPower,58266.05
+DemandResponse,58266.05
+HigherElecDemand,62679.52
+WithoutEmisCap,58266.05
