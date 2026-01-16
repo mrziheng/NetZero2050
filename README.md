@@ -18,7 +18,7 @@ To reproduce the results by solving these LP files, the following hardware and s
 
 ### Hardware Requirements
 
-- **RAM:**  16GB RAM is required to load the smaller instances (e.g., `partial_8.lp`). For the largest full-scale instances (e.g., `partial_0.lp`, 31.9 GB), a higher-performance server with at least 2000 GB RAM and 196 cores is recommended to solve it. Attempting to load `partial_0.lp` on a standard laptop may result in a memory crash and is therefore not suggested.
+- **RAM:**  16GB RAM is required to load the smaller instances (e.g., `partial_8.lp`). For the largest full-scale instances (e.g., `partial_0.lp`, 31.9 GB), a higher-performance server with at least ***2000 GB RAM and 196 cores*** is recommended to solve it. Attempting to load `partial_0.lp` on a standard laptop may result in a memory crash and is therefore not suggested.
 - **Disk Space:** At least 100 GB of free space to store the unzipped LP files and solution outputs.
 - **Processor:** A multi-core processor is recommended for parallel barrier solving.
 
