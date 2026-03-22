@@ -29,7 +29,7 @@ The `Plots/` directory contains the data and Jupyter Notebooks (`.ipynb`) used t
 ### 1.3 Understanding the Pickle (PKL) Files (Core Model Components)
 
 As noted by reviewers, the `.pkl` (Pickle) files constitute a core component of the model's high-resolution operational outputs. Within the `data/` directory, you will find files such as:
-- `data/sp_prof/sp_status.pkl`: Contains the multidimensional generation status and profiles for variable renewable energy (solar and wind).
+- `data/sp_prof/sp_status.pkl`: Contains the hourly shadow prices derived from the Base scenario for each power grid.
 - `data/storage/soc_status.pkl`: Contains the continuous State of Charge (SoC) status for energy storage systems across different grids.
 
 **Why are these stored as PKL?**
